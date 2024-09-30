@@ -1,0 +1,2 @@
+// Copyright © 2024 Champion Estates LLC.
+export const VendingDescription = 'The future of retail is automation. Champion Estates also offers vending solutions to the Spokane metropolitan area through Champion Vending LLC. We provide a variety of machine options and products such as snack and soda machines.';

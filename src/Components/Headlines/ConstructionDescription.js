@@ -1,0 +1,2 @@
+// Copyright © 2024 Champion Estates LLC.
+export const ConstructionDescription = 'Family owned and founded by marine veteran David Champion, DC Concrete Finishing services Washington state with exceptional concrete tradesmanship. He and his sons are devoted to providing excellent service to his country and community. Joshua Champion continues his legacy of excellent craftmanship and Nathan Champion provides business support.';
